@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/connorhill/static/css/main.073c9b0a.css",
-    "main.js": "/connorhill/static/js/main.a6c461cf.js",
-    "static/js/787.d48f86b8.chunk.js": "/connorhill/static/js/787.d48f86b8.chunk.js",
-    "static/media/logo.svg": "/connorhill/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/connorhill/index.html",
-    "main.073c9b0a.css.map": "/connorhill/static/css/main.073c9b0a.css.map",
-    "main.a6c461cf.js.map": "/connorhill/static/js/main.a6c461cf.js.map",
-    "787.d48f86b8.chunk.js.map": "/connorhill/static/js/787.d48f86b8.chunk.js.map"
+    "main.css": "/MeruemMoniker/connorhill.git/static/css/main.073c9b0a.css",
+    "main.js": "/MeruemMoniker/connorhill.git/static/js/main.2958bdb0.js",
+    "static/media/logo.svg": "/MeruemMoniker/connorhill.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MeruemMoniker/connorhill.git/index.html",
+    "main.073c9b0a.css.map": "/MeruemMoniker/connorhill.git/static/css/main.073c9b0a.css.map",
+    "main.2958bdb0.js.map": "/MeruemMoniker/connorhill.git/static/js/main.2958bdb0.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a6c461cf.js"
+    "static/js/main.2958bdb0.js"
   ]
 }
